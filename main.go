@@ -1,4 +1,7 @@
-
+//author:云-罗振
+//三周视频作业
+//学号:G20210607020360
+//description:errgroup进程管理，通过control+c信号触发关闭web.再获取webClose的异常。关闭errgroup主进程
 
 package main
 
